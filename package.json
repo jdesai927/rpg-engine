@@ -1,0 +1,19 @@
+{
+  "name": "rpg-engine",
+  "version": "1.0.0",
+  "description": "2D RPG engine",
+  "main": "engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdesai927/rpg-engine.git"
+  },
+  "author": "Jinesh Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdesai927/rpg-engine/issues"
+  },
+  "homepage": "https://github.com/jdesai927/rpg-engine#readme"
+}
